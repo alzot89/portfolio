@@ -1,0 +1,11 @@
+.about-me__paragrahp {
+    text-align: center;
+    margin: 52px 0px 0px 0px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.about-me__paragrahp:first-of-type {
+    margin: 0px 0px 0px 0px;
+}

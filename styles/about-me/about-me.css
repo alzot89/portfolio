@@ -1,0 +1,8 @@
+.about-me {
+    height: 506px;
+    padding: 120px 0 107px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
