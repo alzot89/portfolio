@@ -23,3 +23,8 @@
 @import url('/styles/skills/__icon-name/skills__icon-name.css');
 @import url('/styles/skills/__stars/skills__stars.css');
 @import url('/styles/skills/__star/skills__star.css');
+@import url('/styles/portfolio/portfolio.css');
+@import url('/styles/portfolio/__title/portfolio__title.css');
+@import url('/styles/portfolio/__card/portfolio__card.css');
+@import url('/styles/portfolio/__photo/portfolio__photo.css');
+@import url('/styles/portfolio/__subtitle/portfolio__subtitle.css');
