@@ -4,5 +4,6 @@
     background-color: #070707;
     border-radius: 21px;
     color: #fff;
-    margin: 29px 0px 0px 0px;
+    margin: 29px auto 0;
+    display: block;
 }

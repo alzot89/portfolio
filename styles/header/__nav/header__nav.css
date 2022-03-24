@@ -2,3 +2,9 @@
     height: 55px;
     border-bottom: 1px solid #828282;
 }
+
+@media screen and (max-width: 400px) {
+    .header__nav {
+        display: none;
+    }
+}

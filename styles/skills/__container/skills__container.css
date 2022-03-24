@@ -1,7 +1,21 @@
 .skills__container {
     max-width: 937px;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-content: space-between;
     margin: 83px auto 0px;
+}
+
+@media screen and (max-width: 720px) {
+    .skills__container {
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .skills__container {
+        height: 1065px;
+    }
 }

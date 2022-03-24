@@ -1,8 +1,11 @@
 .footer {
     background-color: #fff;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     padding: 114px 0 123px;
     box-sizing: border-box;
+}
+
+@media  screen and (max-width: 940px) {
+    .footer {
+        padding: 90px 0 82px;
+    }
 }

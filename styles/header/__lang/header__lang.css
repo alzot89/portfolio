@@ -4,3 +4,9 @@
     font-size: 16px;
     line-height: 20px;
 }
+
+@media screen and (max-width: 400px) {
+    .header__lang {
+        display: none;
+    }
+}
