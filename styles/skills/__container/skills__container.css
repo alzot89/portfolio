@@ -4,7 +4,7 @@
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
-    align-content: space-between;
+    align-content: space-around;
     margin: 83px auto 0px;
 }
 
@@ -14,7 +14,7 @@
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 390px) {
     .skills__container {
         height: 1065px;
     }
