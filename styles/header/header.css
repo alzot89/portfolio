@@ -1,4 +1,6 @@
 .header {
+    overflow: hidden;
+    position: relative;
     max-width: 940px;
     margin: 0 auto;
     padding: 33px 0 104px;

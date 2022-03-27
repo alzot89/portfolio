@@ -5,8 +5,23 @@
     line-height: 20px;
 }
 
+.header__lang_active {
+    display: none;
+}
+
 @media screen and (max-width: 400px) {
     .header__lang {
+        transform: rotate(0);
         display: none;
+        font-size: 34px;
+        line-height: 42px;
+        text-align: end;
+        align-self: flex-end;
+        margin-left: auto;
+        margin-bottom: 30px;
+    }
+
+    .header__lang_active {
+        display: block;
     }
 }
